@@ -1,3 +1,7 @@
+# What is this repository?
+
+This repository contains source code to binaries used in AdvDupe2. There is no reason for anyone except for developers to use this repository, as the compiled code will be inserted into the advdupe2 repository.
+
 # License
 
 Copyright 2014 Wire Team
